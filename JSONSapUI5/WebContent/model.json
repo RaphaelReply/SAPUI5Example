@@ -1,0 +1,18 @@
+{
+    "customers": [
+     {"customerId": "123456", 
+    "salutation": "Herr", 
+    "firstname": "Al", 
+    "lastname": "Bundy", 
+    "active": true
+     },
+     {
+     "customerId": "123456", 
+    "salutation": "Herr", 
+    "firstname": "Homer", 
+    "lastname": "Simpson", 
+    "active": true
+     }
+    ]
+    
+}
